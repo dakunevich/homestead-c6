@@ -1,6 +1,7 @@
 # Laravel Homestead
 
 Modified some files to run on CentOS 6
+CentOS machine should be specially prepared. You will need to install all packages included in original setup.
 
 Prebuilt machine from laravel based on Ubuntu
 
